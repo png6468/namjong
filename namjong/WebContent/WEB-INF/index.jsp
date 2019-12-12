@@ -11,9 +11,12 @@
 ㅎㅎㅎ남규
 
 ㅎㅎㅎ완종~~
+<<<<<<< HEAD
 
 
 아무도 모르게 조용히 이걸 합니다
 
+=======
+>>>>>>> branch 'master' of https://github.com/png6468/namjong.git
 </body>
 </html>
