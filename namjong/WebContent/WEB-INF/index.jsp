@@ -21,6 +21,13 @@
 =======
 ㅎㅎㅎㅎㅎㅎㅎㅎㅎ
 sadfasfasdfasd
+<<<<<<< HEAD
 ==진구 테스트 ==
+=======
+
+
+다음에 만드는 git 프로젝트 이름은 Daon으로 만들어주세요
+
+>>>>>>> branch 'master' of https://github.com/png6468/namjong.git
 </body>
 </html>
